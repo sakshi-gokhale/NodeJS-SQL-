@@ -21,7 +21,7 @@ const connection=mysql.createConnection({
     host:'localhost',
     user:'root',
     database:'webDev',
-    password:'...Sak120',
+    password:'yourPassword',
 });
 
 
